@@ -1,0 +1,16 @@
+{
+  "name": "identify_telecommunication",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ntc",
+    "ncell",
+    "smartcell"
+  ],
+  "author": "sudanbhandari",
+  "license": "ISC",
+  "description": ""
+}
