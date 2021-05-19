@@ -24,12 +24,10 @@ const identify_telecommunication = (number) => {
         }
         else {
             return (`${words} is not registered`)
-
         }
-
     }
     else {
-        console.log("enter 10 digit number")
+        return (`${words}  does not have 10 digit`)
 
     }
 
@@ -37,7 +35,3 @@ const identify_telecommunication = (number) => {
 
 module.exports(identify_telecommunication)
 
-
-// if (['banana', 'lemon', 'mango', 'pineapple'].indexOf(fruit) >= 0) {
-//     handleYellowFruit();
-// }
