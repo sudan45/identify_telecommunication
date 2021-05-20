@@ -33,8 +33,5 @@ const identify_telecommunication = (number) => {
 
 }
 
-// module.exports(identify_telecommunication)
+module.exports(identify_telecommunication)
 
-
-console.log(identify_telecommunication(9615889647)
-)
